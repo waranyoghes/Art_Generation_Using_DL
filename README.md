@@ -3,7 +3,7 @@
 ![alternativetext](https://github.com/waranyoghes/Art-Generation-Using-DL/blob/main/img/content.png)<br>
 ## Style Image<br>
 ![alternativetext](https://github.com/waranyoghes/Art-Generation-Using-DL/blob/main/img/style.png)<br>
-## Generated Art Image through the iterations<br>
+## Generated Art Image <br>
 ### Iteration 100
 ![alternativetext](https://github.com/waranyoghes/Art-Generation-Using-DL/blob/main/img/out1.png)<br>
 ### Iteration 200
